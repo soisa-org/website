@@ -1,0 +1,9 @@
+baseURL = 'https://www.soisa.org/'
+languageCode = 'en-us'
+title = 'Small Organization Information Security Association'
+theme = 'PaperMod'
+
+[params]
+  author = 'SOISA Association'
+  description = 'SOISA Association Website'
+
